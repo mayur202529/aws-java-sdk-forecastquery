@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Spring-Context: *;publish-context:=false
+
